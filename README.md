@@ -1,1 +1,1 @@
-# Image-files-face-detection
+# PRO-C106-Teacher-Boilerplate
